@@ -174,4 +174,6 @@ footer a:hover {
 .link-2 {
 	padding-right: 18.7px;
 }
-
+.sign:hover {
+	background-color: blue;
+}
